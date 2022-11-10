@@ -1,4 +1,4 @@
-### Github
+### Github: https://github.com/micha2791/Test
 
 ### Website
 
@@ -42,8 +42,8 @@ This is a assigment where we have been asked to modify the html and css
 
 ## Technologies Use
 
-<p><a href="https:html.com>html</a></p>
-<p><a href="https:css.com>css</a></p>
+<p><a href="https:html.com>"html</a></p>
+<p><a href="https:css.com>"css</a></p>
 
 ## Contributor
 
